@@ -1,3 +1,4 @@
 theme: jekyll-theme-modernist
-name: Weixing Luo, Horrible Cop
+name: Weixing Luo
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
